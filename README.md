@@ -1,2 +1,3 @@
-# template
-Playing around
+Creating a Template using HTML, JS & CSS
+
+Practice
